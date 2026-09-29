@@ -56,3 +56,7 @@ Dados → Gestão de Processos → Automação → Inteligência Artificial, com
 👤 Sobre mim
 
 Profissional com formação em Direito e experiência em gestão, atendimento, administração e processos, atualmente ampliando sua formação para integrar conhecimentos de Dados, Tecnologia, Inteligência Artificial e Gestão de Processos.
+
+📫 Contato
+
+🔗 LinkedIn — Daniela Ramos
