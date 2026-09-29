@@ -21,7 +21,7 @@ Separação clara de escopo entre processos relacionados
 
 Competências praticadas: modelagem de processos (BPM), organização de fluxos com raias, visão sistêmica, identificação de decisões e responsabilidades, documentação de processos.
 
-🔗 Visualizar projeto no Miro
+🔗 [Visualizar projeto no Miro](https://miro.com/app/board/uXjVHuCI8bE=/?share_link_id=828337544979)
 
 📌 Projeto 02 — Organização e Automação de Tarefas (Trello)
 
@@ -39,7 +39,7 @@ Durante a construção, foi feita uma revisão crítica da lógica das regras �
 
 Competências praticadas: organização de projetos, gestão de tarefas, automação com lógica condicional, revisão crítica de regras de automação.
 
-🔗 Visualizar projeto no Trello
+🔗 [Visualizar projeto no Trello](https://trello.com/invite/b/6ab52f472a1d5e2ca13280c5/ATTIf152295f2515268be674fdb322d40071113D91EE/projeto-organizacao-do-evento-interno)
 
 🔗 Conexão entre os projetos
 Miro        → Entender e representar o processo
@@ -59,4 +59,4 @@ Profissional com formação em Direito e experiência em gestão, atendimento, a
 
 📫 Contato
 
-🔗 LinkedIn — Daniela Ramos
+🔗 [LinkedIn — Daniela Ramos](https://www.linkedin.com/in/danielaramosadv/)
